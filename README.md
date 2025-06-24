@@ -19,7 +19,7 @@ Welcome to the official installer for the [GoWhatsApp Multi-Device REST API](htt
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/Alxtexh/Gowhatsapp.git
-   cd Gowhatsapp
+    curl -O https://raw.githubusercontent.com/Alxtexh/Gowhatsapp/main/installgowhatsapp.sh
    chmod +x installgowhatsapp.sh
    ./installgowhatsapp.sh
+  
